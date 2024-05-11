@@ -1,0 +1,100 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Oswald:wght@200&family=Pixelify+Sans&display=swap');
+
+  
+body{
+    background-color: rgb(210, 210, 165);
+}
+
+
+
+.pealkiri{
+    text-align: center;
+    color: rgb(99, 5, 5);
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    margin: 0 auto;
+    
+}
+
+
+    
+
+.sissejuhatus{
+    text-align: left;
+color: rgb(44, 8, 78);
+font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    margin: 0 auto;
+    padding-top: 90;
+}
+
+
+.pilt {
+     color: rgb(44, 8, 78);
+    font-family: 'Oswald', sans-serif;
+        font-size: 15px;
+        margin-top: -10px;
+        
+}
+
+img {
+    margin-left: 210px; border-radius: 30%;width: 250px; 
+    margin-top: 10px; margin-bottom: -90px;
+}
+
+.tabel{
+text-align: left;
+color: rgb(44, 8, 78);
+font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    margin-top: 0;
+margin-bottom: 10px;
+}
+
+.koostisosad{
+    text-align: left;
+color: rgb(44, 8, 78);
+font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.tegemine{
+    text-align: left;
+color: rgb(44, 8, 78);
+font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+
+.originaal{
+    text-align: center;
+color: rgb(44, 8, 78);
+font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    margin: auto;
+    
+}
+
+.link{
+    text-align: center;
+color: rgb(44, 8, 78);
+font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    margin: auto;
+
+}
+
+.copyright{
+    text-align: left;
+color: rgb(44, 8, 78);
+font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    margin: auto;
+ 
+}
